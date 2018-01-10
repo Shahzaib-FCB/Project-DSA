@@ -1,0 +1,23 @@
+PC Name			Results		Time Taken		Query
+
+
+shahzaib-Inspiron-7559	20		0.127265930176		april
+shahzaib-Inspiron-7559	20		0.0344710350037		august
+shahzaib-Inspiron-7559	39		0.000581026077271	april august
+shahzaib-Inspiron-7559	18		0.025671005249		lion
+shahzaib-Inspiron-7559	20		0.0492510795593		wolf
+shahzaib-Inspiron-7559	56		0.0299270153046		wolf lion den
+shahzaib-Inspiron-7559	20		0.000375986099243	april
+shahzaib-Inspiron-7559	20		0.000334024429321	august
+shahzaib-Inspiron-7559	18		0.000336885452271	lion
+shahzaib-Inspiron-7559	56		0.000785827636719	wolf lion den
+shahzaib-Inspiron-7559	20		0.0849580764771		april
+shahzaib-Inspiron-7559	20		0.0235638618469		august
+shahzaib-Inspiron-7559	39		0.000576019287109	april august
+shahzaib-Inspiron-7559	20		0.0818178653717		wolf
+shahzaib-Inspiron-7559	18		0.050124168396		lion
+shahzaib-Inspiron-7559	18		0.0420219898224		den
+shahzaib-Inspiron-7559	38		0.000561952590942	wolf lion
+shahzaib-Inspiron-7559	56		0.000885963439941	wolf lion den
+shahzaib-Inspiron-7559	95		0.0012309551239		wolf lion den april august
+shahzaib-Inspiron-7559	0		4.19616699219e-05	nothing		*
