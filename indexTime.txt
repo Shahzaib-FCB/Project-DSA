@@ -1,0 +1,17 @@
+PC Name			Time Taken	Method		File Size
+
+shahzaib-Inspiron-7559	161.316389084	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	164.426644087	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	161.543808222	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	168.432579041	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	165.897105217	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	156.30391407	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	158.007877111	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	157.409270048	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	159.796959162	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	171.928570986	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	174.680757046	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	191.522078991	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	177.549077034	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	164.85472393	Indexing	608.328631 MBs
+shahzaib-Inspiron-7559	164.092333078	Indexing	608.328631 MBs
